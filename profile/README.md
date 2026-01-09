@@ -1,6 +1,6 @@
 ## About
 
-We are an open-source organization dedicated to creating and evolving software tools that help individuals and teams build, ship, and maintain reliable content.
+We are an open-source organization and community dedicated to creating, evolving, and maintaining reliable software projects and tools for individuals and teams.
 
 
 ## Projects
