@@ -9,7 +9,7 @@ Our projects range from small focused utilities to larger frameworks and applica
 - Clean and intentional architecture
 - Practical and user-focused design
 - Clear and accessible documentation
-- Sustainable, long-term maintenance
+- Sustainable and long-term maintenance
 
 ___
 
