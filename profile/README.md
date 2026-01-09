@@ -1,22 +1,14 @@
 ## About
 
-We are an open-source organization and community dedicated to creating, evolving, and maintaining reliable software projects and tools for individuals and teams.
-
-
-## Projects
-
-Our projects range from small focused utilities to larger frameworks and applications and across all projects, we share the same core principles:
+We are an open-source organization and community dedicated to creating, evolving, and maintaining reliable software projects and tools for individuals and teams. Our projects range from small focused utilities to larger frameworks and applications and across all projects, we share the same core principles:
 - Clean and intentional architecture
 - Practical and user-focused design
 - Clear and accessible documentation
 - Sustainable and long-term maintenance
 
-___
 
-### 1. PyPortion
+## Projects
 
-A Python CLI tool that helps developers kickstart new projects and manage existing ones
+### [1. PyPortion](https://github.com/orgs/Atharabia/repositories?q=topic%3Apyportion)
+A Python CLI tool that helps Python developers kickstart new projects and manage existing ones
 
-| Repository | Description | Language |
-|-----------|-------------|--------|
-| [PyPortion](https://github.com/Atharabia/pyportion) | PyPortion CLI Tool | Python
