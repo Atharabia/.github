@@ -13,7 +13,7 @@ Our projects range from small focused utilities to larger frameworks and applica
 
 ___
 
-###a 1. PyPortion
+### 1. PyPortion
 
 A Python CLI tool that helps developers kickstart new projects and manage existing ones
 
