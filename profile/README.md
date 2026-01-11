@@ -1,5 +1,3 @@
-## About
-
 We are an open-source organization and community dedicated to creating, evolving, and maintaining reliable software projects and tools for individuals and teams. Our projects range from small focused utilities to larger frameworks and applications and across all projects, we share the same core principles:
 - Clean and intentional architecture
 - Practical and user-focused design
@@ -8,10 +6,6 @@ We are an open-source organization and community dedicated to creating, evolving
 
 
 ## Projects
-
-
-
-
 
 | Icon | Name | Description |
 |------|------|-------------|
