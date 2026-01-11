@@ -9,6 +9,11 @@ We are an open-source organization and community dedicated to creating, evolving
 
 ## Projects
 
-### [1. PyPortion](https://github.com/orgs/Atharabia/repositories?q=topic%3Apyportion)
-A Python CLI tool that helps Python developers kickstart new projects and manage existing ones
 
+
+
+### 
+
+| Icon | Name | Description |
+|------|------|-------------|
+| <img width="50" height="50" alt="pyportion" src="https://github.com/user-attachments/assets/8837e6fd-e21b-40ba-a6ae-eb3ef023eea9" /> | [PyPortion](https://github.com/orgs/Atharabia/repositories?q=topic%3Apyportion) | A Python CLI tool that helps Python developers kickstart new projects and manage existing ones
